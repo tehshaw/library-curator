@@ -43,6 +43,10 @@ When library members login they will be able to:
 
   ## Demo
   --------------
+  
+  Try the site [here](https://library-curator.herokuapp.com/)
+  
+  For login use user: sal@hotmail.com and PW: password1234 to try out the user side.
 
   ## Team Members
  --------------
